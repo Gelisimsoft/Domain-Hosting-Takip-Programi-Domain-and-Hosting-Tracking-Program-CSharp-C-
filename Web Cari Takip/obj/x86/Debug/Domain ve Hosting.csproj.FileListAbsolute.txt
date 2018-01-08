@@ -1,0 +1,108 @@
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Cari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainKayit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPosta.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPostaKayit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingKayit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MusteriRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Passchange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.SuresiBitenler.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Tahsilat.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.TahsilatRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Cari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainKayit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPosta.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPostaKayit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingKayit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MusteriRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Passchange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.SuresiBitenler.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Tahsilat.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.TahsilatRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.About.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Cari.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.AnaMenu.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainKayit.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainRapor.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPosta.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPostaKayit.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Giris.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingKayit.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingRapor.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MailForm.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MusteriRapor.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Passchange.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Properties.Resources.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.SuresiBitenler.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Tahsilat.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.TahsilatRapor.resources
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.manifest
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.application
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.pdb
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe.manifest
+C:\Users\Murat\Desktop\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.application
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.About.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Cari.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.AnaMenu.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainKayit.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainRapor.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPosta.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPostaKayit.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Giris.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingKayit.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingRapor.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MusteriRapor.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Passchange.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Properties.Resources.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.SuresiBitenler.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Tahsilat.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.TahsilatRapor.resources
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting.csproj.GenerateResource.Cache
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.manifest
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.application
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.pdb
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe.manifest
+C:\Users\fatih.cetinkaya\Downloads\Domain ve Hosting Programı (Ücretsiz)\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.application

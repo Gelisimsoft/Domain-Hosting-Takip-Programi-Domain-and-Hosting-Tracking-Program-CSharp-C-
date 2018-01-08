@@ -1,0 +1,82 @@
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\bin\Debug\Web Cari Takip.exe.config
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\bin\Debug\Web Cari Takip.exe.manifest
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\bin\Debug\Web Cari Takip.application
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\bin\Debug\Web Cari Takip.exe
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\bin\Debug\Web Cari Takip.pdb
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Cari.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.AnaMenu.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.DemoEkran.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.DomainRapor.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Ekstre.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.EPosta.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.G.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Giris.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.HostingRapor.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Iletisim.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.MusteriRapor.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Passchange.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.PostaAyar.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Properties.Resources.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.SMSAyar.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.SmsGonder.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Tahsilat.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.TahsilatRapor.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.WebHosting.resources
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web Cari Takip.exe.manifest
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web Cari Takip.application
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web Cari Takip.exe
+D:\Etüd\Windows Application\Web Cari Takip\Web Cari Takip\obj\x86\Debug\Web Cari Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Cari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.DomainRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Ekstre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.EPosta.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.HostingRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.MusteriRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Passchange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.Tahsilat.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.TahsilatRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web_Cari_Takip.WebHosting.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web Cari Takip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Web Cari Takip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.application
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe.manifest
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.application
+H:\Programlar\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\bin\Debug\Domain ve Hosting Takip.exe.config
+H:\Programlar\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.exe
+H:\Programlar\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain ve Hosting Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Cari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.DomainRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Ekstre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.EPosta.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.HostingRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.MusteriRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Passchange.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.Tahsilat.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.TahsilatRapor.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Domain Hosting Programı\Domain ve Hosting Takip\Web Cari Takip\obj\x86\Debug\Domain_Hosting.WebHosting.resources

@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2930A3A5-0EF8-4F27-A9EE-77E281AE3571}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Domain_Hosting</RootNamespace>
+    <AssemblyName>Domain ve Hosting Takip</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\FTH\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>group_16.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B77BBF69D503DD11F522D6B49A0A21EB7447AEEC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Domain ve Hosting_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject>Domain_Hosting.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cari.Designer.cs">
+      <DependentUpon>Cari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataYol.cs" />
+    <Compile Include="DomainKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DomainKayit.Designer.cs">
+      <DependentUpon>DomainKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DomainRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DomainRapor.Designer.cs">
+      <DependentUpon>DomainRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EPosta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EPosta.Designer.cs">
+      <DependentUpon>EPosta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EPostaKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EPostaKayit.Designer.cs">
+      <DependentUpon>EPostaKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HostingKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HostingKayit.Designer.cs">
+      <DependentUpon>HostingKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HostingRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HostingRapor.Designer.cs">
+      <DependentUpon>HostingRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>MusteriRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Passchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Passchange.Designer.cs">
+      <DependentUpon>Passchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuresiBitenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuresiBitenler.Designer.cs">
+      <DependentUpon>SuresiBitenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tahsilat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tahsilat.Designer.cs">
+      <DependentUpon>Tahsilat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TahsilatRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TahsilatRapor.Designer.cs">
+      <DependentUpon>TahsilatRapor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cari.resx">
+      <DependentUpon>Cari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DomainKayit.resx">
+      <DependentUpon>DomainKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DomainRapor.resx">
+      <DependentUpon>DomainRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EPosta.resx">
+      <DependentUpon>EPosta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EPostaKayit.resx">
+      <DependentUpon>EPostaKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HostingKayit.resx">
+      <DependentUpon>HostingKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HostingRapor.resx">
+      <DependentUpon>HostingRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriRapor.resx">
+      <DependentUpon>MusteriRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Passchange.resx">
+      <DependentUpon>Passchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SuresiBitenler.resx">
+      <DependentUpon>SuresiBitenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tahsilat.resx">
+      <DependentUpon>Tahsilat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TahsilatRapor.resx">
+      <DependentUpon>TahsilatRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Domain ve Hosting_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fçmedya_130_140.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web_downloads.png" />
+    <None Include="Resources\toolbox.png" />
+    <None Include="Resources\report.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\layout_add.png" />
+    <None Include="Resources\Vector_background1.jpg" />
+    <None Include="Resources\domain-uzantilari.jpg" />
+    <Content Include="group_16.ico" />
+    <None Include="Resources\FCY_Logo_135X95.png" />
+    <None Include="Resources\1307317393_exit.png" />
+    <None Include="Resources\1307317565_wheel.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\adim.png" />
+    <None Include="Resources\FCY_Logo_150x150.jpg" />
+    <None Include="Resources\group.png" />
+    <None Include="Resources\group_add.png" />
+    <None Include="Resources\about.png" />
+    <None Include="Resources\bell.png" />
+    <None Include="Resources\aadad.png" />
+    <Content Include="Resources\guard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
